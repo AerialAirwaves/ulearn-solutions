@@ -1,0 +1,9 @@
+D:\Users\nm101\Documents\VS source\Vector\bin\Release\netstandard2.0\Vector.deps.json
+D:\Users\nm101\Documents\VS source\Vector\bin\Release\netstandard2.0\Vector.dll
+D:\Users\nm101\Documents\VS source\Vector\bin\Release\netstandard2.0\Vector.pdb
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.csprojAssemblyReference.cache
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.AssemblyInfoInputs.cache
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.AssemblyInfo.cs
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.csproj.CoreCompileInputs.cache
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.dll
+D:\Users\nm101\Documents\VS source\Vector\obj\Release\netstandard2.0\Vector.pdb

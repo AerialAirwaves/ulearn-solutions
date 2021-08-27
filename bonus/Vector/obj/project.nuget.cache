@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "McCL24ltMsn3ef/8S5P8h8/D59/iOF4hm2MlZ+EM7I2yKR7oj2ksZSqMBAIdx9jLR2mP6fB/wsEk9IH0+P97Fw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\nm101\\Documents\\VS source\\Vector\\Vector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nm101\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nm101\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

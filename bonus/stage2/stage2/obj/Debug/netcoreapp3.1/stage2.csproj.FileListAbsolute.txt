@@ -1,0 +1,32 @@
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2.deps.json
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2.runtimeconfig.json
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2.runtimeconfig.dev.json
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2.dll
+/home/nm101/stage2/stage2/bin/Debug/netcoreapp3.1/stage2.pdb
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.csprojAssemblyReference.cache
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.AssemblyInfoInputs.cache
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.AssemblyInfo.cs
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.csproj.CoreCompileInputs.cache
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.dll
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.pdb
+/home/nm101/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.genruntimeconfig.cache
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.csprojAssemblyReference.cache
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.AssemblyInfoInputs.cache
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.AssemblyInfo.cs
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.csproj.CoreCompileInputs.cache
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.dll
+/media/Data/Users/nm101/Documents/VS source/stage2/stage2/obj/Debug/netcoreapp3.1/stage2.pdb
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.exe
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.deps.json
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.runtimeconfig.json
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.runtimeconfig.dev.json
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.dll
+D:\Users\nm101\Documents\VS source\stage2\stage2\bin\Debug\netcoreapp3.1\stage2.pdb
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.AssemblyInfoInputs.cache
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.AssemblyInfo.cs
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.csproj.CoreCompileInputs.cache
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.dll
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.pdb
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.genruntimeconfig.cache
+D:\Users\nm101\Documents\VS source\stage2\stage2\obj\Debug\netcoreapp3.1\stage2.csprojAssemblyReference.cache

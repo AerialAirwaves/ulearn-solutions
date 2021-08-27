@@ -1,0 +1,17 @@
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\Digger.png
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\Gold.png
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\Monster.png
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\Sack.png
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\Terrain.png
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\11-digger.exe.config
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\11-digger.exe
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\11-digger.pdb
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\nunit.framework.dll
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\11-digger.exe
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\obj\Debug\11-digger.pdb
+C:\Users\shala\Desktop\ARE YOU FUCKING KIDDING ME\digger.csproj\bin\Debug\Images\EbnutiyMonster.png

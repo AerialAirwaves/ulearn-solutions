@@ -1,0 +1,7 @@
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\bin\Debug\GravityBalls.exe.config
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\bin\Debug\GravityBalls.exe
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\bin\Debug\GravityBalls.pdb
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\obj\Debug\GravityBalls.csprojAssemblyReference.cache
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\obj\Debug\GravityBalls.csproj.CoreCompileInputs.cache
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\obj\Debug\GravityBalls.exe
+D:\Users\nm101\Documents\VS source\ifs-gravityballs\obj\Debug\GravityBalls.pdb
